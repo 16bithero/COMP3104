@@ -39,8 +39,6 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-
-        
   #Deploy to Heroku      
   deploy:
     runs-on: ubuntu-latest
