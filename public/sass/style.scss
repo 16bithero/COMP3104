@@ -188,7 +188,7 @@ figure {
 	width: 300px;
 	position: fixed;
 	z-index: 1001;
-	background: $brand-gray;
+	background: #a6b4ff;
 	@include transition(.5s);
 
 	@media screen and (max-width: $screen-sm) {
