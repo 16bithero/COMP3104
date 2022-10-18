@@ -6,7 +6,7 @@ name: CI
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
-    branches: [ "dep-inclusions" ]
+    branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
 
@@ -50,4 +50,4 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "comp3104-devops-101277841" #Must be unique in Heroku
           heroku_email: "renzzi.adorador@gmail.com"
-          
+
