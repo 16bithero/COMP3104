@@ -17,12 +17,7 @@ export default class About extends Component {
                       <span className="heading-meta">About Us</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Nostrum modi quis, ad dolores eos adipisci? Nisi
-                        pariatur facere ducimus iusto quia veniam ipsum
-                        praesentium! Quos ab voluptate debitis possimus quaerat
-                        animi ea. Omnis impedit aperiam minima mollitia
-                        corporis, nesciunt natus!
+                      I'm Renzzi Adorador, a 20-something-year-old student studying Computer Programming at George Brown College. My interests include coding, creating graphic designs, and sometimes cooking semi-edible food.
                       </p>
                       <p>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit.
